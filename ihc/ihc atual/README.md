@@ -95,7 +95,11 @@
 #
 
 ### 10: Ajuda e Documentação
-> o WordPress.org é um exemplo de como fornecer ajuda e documentação eficazes aos usuários, oferecendo uma extensa base de conhecimento, fóruns de suporte ativos e recursos de pesquisa, todos centrados na tarefa do usuário.
+> O WordPress.org é um exemplo de como fornecer ajuda e documentação eficazes aos usuários, oferecendo uma extensa base de conhecimento, fóruns de suporte ativos e recursos de pesquisa, todos centrados na tarefa do usuário.
 
 ![image](https://github.com/sofialessaa/bertoti/assets/126245999/d1c17705-50c5-4b25-9093-fe514a3bf538)
 
+<br>
+
+#### Clique para acessar o site
+[[Site das 10 Heurísticas citadas acima](https://www.nngroup.com/articles/ten-usability-heuristics/)]
