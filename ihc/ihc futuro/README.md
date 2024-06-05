@@ -17,3 +17,10 @@ Para rodar o projeto, siga estes passos:
 
 O ChatBot também pode ser acessado pelo qrcode abaixo.
 <img src="images/IMG_7218.jpeg" alt="QrCode">
+
+<hr>
+
+| Participante | GitHub | LinkedIn |
+|---|---|---|
+| Sofia Lessa | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/sofialessaa) | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofiamatoslessa/) |
+| Pedro Henrique Ribeiro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedrohenribeiro) | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenribeiro1/) |
