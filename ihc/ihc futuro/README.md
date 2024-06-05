@@ -16,6 +16,7 @@ Para rodar o projeto, siga estes passos:
 4. Basta clicar em `Iniciar` e desfrutar das funcionalidades do CineBot!
 
 O ChatBot também pode ser acessado pelo qrcode abaixo.
+
 <img src="images/IMG_7218.jpeg" alt="QrCode" width="300">
 
 <hr>
