@@ -1,4 +1,4 @@
-class Cliente implements Cliente {
+class Cliente implements Observer {
     private String nome;
 
     public Cliente(String nome) {
